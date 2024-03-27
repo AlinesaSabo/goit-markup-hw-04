@@ -315,7 +315,7 @@ position: absolute;
 
 .team-social-icon{
     display: flex;
-    gap: 16px; 
+    gap: 24px; 
     justify-content: center;
 }
 
