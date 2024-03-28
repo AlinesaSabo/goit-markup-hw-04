@@ -249,7 +249,6 @@ position: absolute;
 .features-section-icon{
     border: 1px solid #8e8f99;
     border-radius: 4px;
-    padding: 24px 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -309,7 +308,7 @@ position: absolute;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
     
 }
 
